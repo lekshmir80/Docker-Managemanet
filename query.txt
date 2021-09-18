@@ -1,0 +1,7 @@
+6.Manage Docker:
+	-Status of containers
+	-Download new Image
+	-Run container
+	-Delete Container
+	-Network details of container
+	-Modify Network details of contaniner
